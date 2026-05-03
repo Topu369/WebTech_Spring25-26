@@ -1,0 +1,5 @@
+<?php
+$name="";
+$password="";
+$validpassword="";
+?>
